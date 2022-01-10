@@ -1,0 +1,21 @@
+* {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+img {
+    height: 400px;
+    width: 0 auto;
+}
+
+h1, h2, h5 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+h5{
+    font-weight: 50;
+}
+ol, ul {
+    background: rgba(0, 0, 0, .5);
+    margin: 0;
+    padding: 0px, 10px, 0px, 10px;
+}
